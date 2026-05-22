@@ -1,7 +1,5 @@
 # Assignment 4 - Prognostics and Health Management
-
 **Course:** Augmented Decision Making D7017B  
-**Author:** Deborah Aittokallio
 
 ## Overview
 
